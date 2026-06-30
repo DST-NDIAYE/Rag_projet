@@ -1,0 +1,4 @@
+TechNova est une entreprise française spécialisée dans l’intelligence artificielle et l’analyse de données.
+L’entreprise a été créée en 2018 à Paris. Elle accompagne principalement des banques, des assurances et des organismes publics.
+TechNova développe des solutions de machine learning, de traitement automatique du langage et d’intelligence artificielle générative.
+Son siège social se trouve au 25 rue de la République, 75011 Paris.
