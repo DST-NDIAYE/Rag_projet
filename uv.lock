@@ -3504,6 +3504,7 @@ dependencies = [
     { name = "python-dotenv" },
     { name = "scikit-learn" },
     { name = "sentence-transformers" },
+    { name = "spacy" },
     { name = "umap-learn" },
     { name = "unstructured", extra = ["docx"] },
 ]
@@ -3530,6 +3531,7 @@ requires-dist = [
     { name = "python-dotenv", specifier = ">=1.2.2" },
     { name = "scikit-learn", specifier = ">=1.9.0" },
     { name = "sentence-transformers", specifier = ">=5.5.1" },
+    { name = "spacy", specifier = ">=3.8.14" },
     { name = "umap-learn", specifier = ">=0.5.12" },
     { name = "unstructured", extras = ["docx"], specifier = ">=0.23.1" },
 ]
